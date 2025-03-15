@@ -81,3 +81,10 @@
 ## Fotos do Código em Funcionamento
 
 *A seguir o fluxo demonstrando o funcionamento da api com os 5 metodos basicos e respostas com http apropriadas*
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/1.png" alt="Texto Alternativo">
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/2.png" alt="Texto Alternativo">
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/3.png" alt="Texto Alternativo">
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/4.png" alt="Texto Alternativo">
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/5.png" alt="Texto Alternativo">
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/6.png" alt="Texto Alternativo">
+<img src="https://github.com/giovaniocan/CrudProvaBpk/blob/main/img/7.png" alt="Texto Alternativo">
