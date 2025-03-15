@@ -80,4 +80,4 @@
 
 ## Fotos do Código em Funcionamento
 
-*Adicione aqui as capturas de tela mostrando a API em funcionamento.*
+*A seguir o fluxo demonstrando o funcionamento da api com os 5 metodos basicos e respostas com http apropriadas*
